@@ -6,3 +6,4 @@ if [ $n = apple ]; then
 echo "enter fruit is apple"
 else
 echo "it is not a apple"
+fi
