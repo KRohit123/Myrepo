@@ -1,5 +1,4 @@
 #!/bin/bash
-
 echo "enter the fruit name"
 read n
 if [ $n = apple ]; then
